@@ -7,6 +7,7 @@ import android.widget.Toast;
 public class LifeCycleTest extends Activity {
 
 	//コメント
+	//コメント2
 	@Override
 	public void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
