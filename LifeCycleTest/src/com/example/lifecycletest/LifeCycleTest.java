@@ -8,6 +8,7 @@ public class LifeCycleTest extends Activity {
 
 	//コメント
 	//コメント2
+	//コメント3
 	@Override
 	public void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
